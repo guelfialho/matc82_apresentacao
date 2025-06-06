@@ -1,27 +1,23 @@
-# Memoteca
+# MemoTeca 📚
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+Projeto desenvolvido como parte da disciplina de Apresentação de Tecnologias (MATC82) ou com base nas aulas da Alura, utilizando o framework **Angular**.
 
-## Development server
+A **MemoTeca** é uma aplicação web que permite cadastrar, listar e visualizar memórias em formato de cartões (memos). O foco é aprender os fundamentos do Angular, como componentes, serviços, rotas e bindings.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🔧 Tecnologias utilizadas
 
-## Code scaffolding
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/)
+- HTML5, CSS3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Como executar o projeto
 
-## Build
+### Pré-requisitos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Node.js instalado (versão recomendada: 16+)
+- Angular CLI instalado globalmente
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+npm install -g @angular/cli
+```
