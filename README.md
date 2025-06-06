@@ -1,6 +1,6 @@
 # MemoTeca 📚
 
-Projeto desenvolvido como parte da disciplina de Apresentação de Tecnologias (MATC82) ou com base nas aulas da Alura, utilizando o framework **Angular**.
+Projeto desenvolvido como parte da disciplina Sistemas Web (MATC82) da UFBA. Projeto feito com base nas aulas da Alura, utilizando o framework **Angular**.
 
 A **MemoTeca** é uma aplicação web que permite cadastrar, listar e visualizar memórias em formato de cartões (memos). O foco é aprender os fundamentos do Angular, como componentes, serviços, rotas e bindings.
 
